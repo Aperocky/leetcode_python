@@ -42,3 +42,5 @@ class Solution:
             else:
                 break
         return result
+
+# 97.87%
