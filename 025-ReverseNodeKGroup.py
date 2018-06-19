@@ -111,6 +111,6 @@ class Solution:
 soln = Solution()
 soln.test()
 
-# 71.78%
+# 97.06%
 
 # COMPLETELY HOMEBREWED
